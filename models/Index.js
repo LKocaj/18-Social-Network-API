@@ -1,6 +1,6 @@
 // depend users and thought models
-const User = require('./User');
-const Thought = require('./Thought');
+const User = require('./Users');
+const Thought = require('./Thoughts');
 
 // export
 module.exports = { User, Thought };
